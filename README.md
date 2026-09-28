@@ -398,24 +398,3 @@ The final Max Heap for the priority queue is:
 
 ---
 
-## 17. GitHub Submission
-
-The complete project should be uploaded to a GitHub repository.
-
-Suggested repository name:
-
-```text
-Hospital-Patient-Priority-Queue
-```
-
-The repository should contain:
-
-- Source code
-- Input data
-- Execution output
-- Trace table
-- Complexity analysis
-- Comparison table
-- Final conclusion
-
-After uploading all files, copy the GitHub repository URL and submit it as the assignment submission link.
